@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CarDesktop": {
+      "commandName": "Project",
+      "commandLineArgs": "\r\n"
+    }
+  }
+}

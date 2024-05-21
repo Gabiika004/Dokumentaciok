@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\statisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:statisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|e:\\petrik2023\\vizsgagyak\\members_20240429\\bookclub-desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31FB282F-334C-4CAA-83A2-10A2205DA841}|Bookclub-desktop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:44:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MemberService.cs",
+              "RelativeDocumentMoniker": "MemberService.cs",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MemberService.cs",
+              "RelativeToolTip": "MemberService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:58:59.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statisztika.cs",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\Statisztika.cs",
+              "RelativeDocumentMoniker": "Statisztika.cs",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\Statisztika.cs",
+              "RelativeToolTip": "Statisztika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:58:39.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:58:24.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T07:57:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T07:29:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Petrik2023\\VizsgaGyak\\members_20240429\\Bookclub-desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:29:44.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
